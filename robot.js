@@ -9,10 +9,10 @@
 // except according to those terms.
 
 // var ffi = require('ffi-napi');
-var ffi = require('ffi');
+var ffi = require('ffi-napi');
 const path = require('path');
 
-var ref = require('ref');
+var ref = require('ref-napi');
 var Struct = require("ref-struct");
 // var ArrayType = require('ref-array');
 

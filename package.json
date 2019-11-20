@@ -10,7 +10,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/vcaesar/robotn.git"
+        "url": "https://github.com/lunnlew/robotn.git"
     },
     "keywords": [
         "Automation",
@@ -27,13 +27,13 @@
     "license": "Apache-2.0",
     "gypfile": true,
     "bugs": {
-        "url": "https://github.com/vcaesar/robotn/issues"
+        "url": "https://github.com/lunnlew/robotn/issues"
     },
-    "homepage": "https://github.com/vcaesar/robotn",
+    "homepage": "https://github.com/lunnlew/robotn",
     "dependencies": {
         "ffi-napi": "^2.4.5",
         "ref-napi": "^1.4.2",
-        "ref-struct": "^1.1.0"
+        "ref-struct-napi": "^1.1.0"
     },
     "__npminstall_done": false
 }

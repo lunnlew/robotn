@@ -13,7 +13,7 @@ var ffi = require('ffi-napi');
 const path = require('path');
 
 var ref = require('ref-napi');
-var Struct = require("ref-struct");
+var Struct = require("ref-struct-napi");
 // var ArrayType = require('ref-array');
 
 var long = ref.types.long;
